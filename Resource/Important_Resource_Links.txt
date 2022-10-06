@@ -1,0 +1,104 @@
+
+      Codeshare link is always the same
+
+https://youtube.com/playlist?list=PLlUZLZydkS7_8WnK8fMENmJFSfPwxw9Fi -----Pyspark
+https://www.mltut.com/free-udacity-courses-on-data-analytics/ ---Free udacity-courses-on-data-analytics/
+https://github.com/KeithGalli/Pandas-Data-Science-Tasks
+https://github.com/ratang94/Spark-with-Python/blob/master/Pyspark_My_Learnings.ipynb
+https://t.me/data_science_info
+https://github.com/roshanappa/Power-BI-Dashboards
+https://www.analyticsvidhya.com/blog/2021/04/20-must-known-pandas-function-for-exploratory-data-analysis-eda/
+https://github.com/Soumenineuron/iNeuron_live_class_tasks_sollution/blob/main/Pandas_Task/Pandas_Task2/Python_task2.ipynb
+https://github.com/sudh9931/task/blob/main/task -----API
+https://github.com/agnn
+https://plotly.com/python/plotly-express/#gallery - plotly offfical documentation
+https://courses.learncodeonline.in/learn/search?show=courses&type=1&search=python
+https://github.com/bhoodevsharma14/ineuron/blob/master/Live%20Class%20Assignment/31_July_TASK2.ipynb
+https://towardsdatascience.com/a-beginners-guide-to-data-analysis-in-python-188706df5447              ----Data analysis
+
+https://github.com/sudh9931/graph/blob/main/Graph%20.ipynb  -Graphs library
+
+https://www.fromdev.com/2019/01/best-free-mongodb-tutorials-pdf.html ---Mongodb tutorial
+
+https://docs.microsoft.com/en-us/azure/app-service/ -----Azure offfical documentation
+
+https://www.youtube.com/watch?v=9JV6eHe3OIQ&list=PLjNd3r1KLjQt0xN_y8F6BSIOVNvdQmq4d&index=2 ---power bi tutorial
+
+Datasets:
+
+Kaggle: https://www.kaggle.com/datasets
+
+
+UCI: https://archive.ics.uci.edu/ml/index.php
+
+
+Quandl: https://www.quandl.com/
+
+
+US Government Open Dataset: https://www.data.gov/
+
+
+Indian Government OpenDataset:https://data.gov.in/
+
+
+World Bank Dataset: https://data.worldbank.org/
+
+
+Group Lens dataset: https://grouplens.org/
+
+
+Awesome Public Dataset: https://github.com/awesomedata/awesom...
+
+
+
+apollo tele health company  interview questions far data scientist role 
+
+1.Write function to merge the data of df1,df2,df3,df4?
+2.Write a function to perform join(inner join, outer join, left join, right join) operation on the given data frames df1,df2,df3,df4?
+3.How can you explain machine learning to a 7 year kid ?
+4.How can you explain data science to a 7 year kid ?
+5.How can you explain data visualization to a 7 year kid ?
+6.What are the functions used in the pandas ?
+7.What is senstivity and specificivity ?
+8.What is recall and accuracy ?
+9.What are the main pillars of object oriented programing  elaborate me each one with an example ?
+10.if given an opportunity how are you going to do service to the people with this data science ?
+
+conda create -n new_env python=3.8 -y
+conda activate new_env
+
+https://www.google.co.in/books/edition/Feature_Engineering_and_Selection/q5alDwAAQBAJ?hl=en&gbpv=1&dq=feature+engineering&printsec=frontcover
+
+https://www.google.co.in/books/edition/Python_Feature_Engineering_Cookbook/2c_LDwAAQBAJ?hl=en&gbpv=1&dq=feature+Engineering&printsec=frontcover
+#Assignment:
+
+https://archive.ics.uci.edu/ml/datasets/Algerian+Forest+Fires+Dataset++ --Krish Practise dataset
+
+https://youtu.be/uP57RmVza64 ---Ankit Bansal(python)
+
+01-10-2022(Live Class)
+#Assignment:
+Housing pricing dataset(California)
+https://github.com/krishnaik06/Types-Of-Trnasformation/blob/main/All%20types%20Of%20Feature%20Transformation.ipynb -----> Reference
+https://github.com/krishnaik06/Types-Of-Trnasformation --->Reference
+https://github.com/krishnaik06/EDA-Used-CAr-PRediction---->Reference
+
+EDA AND FEATURE ENGINEERING (TRAVEL DATASET)
+This covers following topics:
+1. EDA
+a. Data Profiling
+b. Statistical Analysis
+c. Graphical Analysis
+
+2. Feature Engineering (Below topics also have subtopics)
+a. Handling Missing Values
+b. Encoding Categorical Features
+c. Transformation
+d. Handling Outliers
+e. Feature Scaling
+
+If you like the content please share and endorse my skills. 
+Also, check out my GitHub for more such content.
+My GitHub: https://lnkd.in/gky-wyFJ
+
+
